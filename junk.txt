@@ -1,0 +1,3 @@
+Comparing files CCPRO\x_ScrapBook.bas and CCMC\X_SCRAPBOOK.BAS
+FC: no differences encountered
+
